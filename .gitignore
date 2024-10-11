@@ -1,0 +1,16 @@
+# Node modules
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing coverage
+/coverage
+
+# Production builds
+/build
+
+# Miscellaneous files
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
